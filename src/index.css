@@ -1,0 +1,53 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+/* body,html {
+    height: 100%;
+    background-color: white;
+  } */
+
+
+/* #data-it:hover{
+    background-color: aqua;
+    border-radius: 20px;
+    padding: 2px;
+    color: red;
+} */
+
+#pic-hooo:hover{
+    margin-top: 2px;
+    padding-right: 5px;
+}
+
+#home-img{
+    background-image: url("../public/images/hd-home-quality.jpg");
+    height: 700px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+#social{
+    text-decoration: none;
+    color: #577D86;
+}
+@media screen and (min-width: 375px){
+    #we-offer{
+        align-items: center;
+        text-align: center;
+        padding: 10px;
+    }
+    #nav-head{
+        padding-left: 70px;
+        /* color: blue; */
+    }
+}
+@media screen and (min-width: 480px){
+
+}
+@media screen and (min-width: 800px){
+
+}
+@media screen and (min-width: 1000px){
+
+}
+@media screen and (min-width: 1200px){
+
+}
