@@ -34,10 +34,6 @@
         text-align: center;
         padding: 10px;
     }
-    #nav-head{
-        padding-left: 70px;
-        /* color: blue; */
-    }
 }
 @media screen and (min-width: 480px){
 
